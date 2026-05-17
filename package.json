@@ -1,0 +1,24 @@
+{
+  "name": "@wuchunjie/gitpulse",
+  "version": "1.0.0",
+  "description": "\ud83d\udcca Git repository analytics \u2014 commit stats, contributor graphs, and file breakdowns in your terminal",
+  "main": "index.js",
+  "bin": {
+    "gitpulse": "index.js"
+  },
+  "keywords": [
+    "git",
+    "analytics",
+    "stats",
+    "contributors",
+    "visualization",
+    "cli",
+    "devtools",
+    "dashboard"
+  ],
+  "author": "wuchunjie",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ]
+}
